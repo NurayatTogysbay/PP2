@@ -1,2 +1,0 @@
-#Intro
-print("Hello, World!")
